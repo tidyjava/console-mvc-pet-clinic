@@ -11,3 +11,4 @@ buildNumber.properties
 *.iml
 *.ipr
 *.iws
+.idea
